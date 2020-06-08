@@ -34,5 +34,4 @@ properties file and CLI arguments take precedence over all.
 - [] properties to close browser after each test
 - [] add some logging!
 
-# some good links
-https://medium.com/@mlvandijk/managing-state-in-cucumber-jvm-using-spring-a795e9a1dd18
+
